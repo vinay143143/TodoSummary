@@ -1,6 +1,6 @@
 # TodoSummaryPro
 
-*TodoSummaryPro* is a modern web-based task management application that allows users to manage and summarize their daily tasks efficiently. Built with TypeScript, Vite, and Tailwind CSS, it delivers a fast and responsive user experience.
+*TodoSummaryPro* is a modern web-based task management application that allows users to manage and summarize their daily tasks efficiently. Built with javaScript, Vite, and Tailwind CSS, it delivers a fast and responsive user experience.
 
 ## 🚀 Features
 
